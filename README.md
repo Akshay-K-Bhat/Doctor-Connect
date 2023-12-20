@@ -2,7 +2,7 @@
 
 ## Overview
 
-Doctor Connect is a simple Java console application that allows users to manage appointments between patients and doctors. The application uses a MySQL database to store information about patients, doctors, and appointments. Users can perform various operations such as adding patients, removing patients, viewing patients, viewing doctors, booking appointments, viewing appointments, canceling appointments, and exiting the application.
+Doctor Connect is a simple Java console application that allows users to manage appointments between patients and doctors. The application uses a MySQL database to store information about patients, doctors, and appointments. Users can perform various operations such as adding patients, removing patients, viewing patients, viewing doctors, booking appointments, viewing appointments, cancelling appointments, and exiting the application.
 
 ## Prerequisites
 
@@ -48,7 +48,7 @@ The application uses the following database tables:
 
 ## Contributors
 
-- [Your Name]
+- Akshay-K-Bhat
 
 ## License
 
