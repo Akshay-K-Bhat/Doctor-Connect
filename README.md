@@ -16,7 +16,7 @@ Before running the application, ensure you have the following installed:
 
 1. **Database Setup:**
    - Create a MySQL database named `doctor_connect`.
-   - Update the `url`, `username`, and `password` fields in the `DoctorAppointmentBookingApp` class with your MySQL connection details.
+   - Update the `URL`, `username`, and `password` fields in the `DoctorAppointmentBookingApp` class with your MySQL connection details.
 
 2. **Java Project Setup:**
    - Compile and run the `DoctorAppointmentBookingApp` class.
@@ -25,7 +25,7 @@ Before running the application, ensure you have the following installed:
 
 1. Run the application, and you will see a menu with various options.
 2. Choose an option by entering the corresponding number.
-3. Follow the prompts to perform operations such as adding/removing patients, viewing patients/doctors, booking/canceling appointments, and exiting the application.
+3. Follow the prompts to perform operations such as adding/removing patients, viewing patients/doctors, booking/cancelling appointments, and exiting the application.
 
 ## Features
 
